@@ -1,0 +1,47 @@
+body{
+    overflow-x: hidden;
+}
+.header{
+    background-color: rgba(145, 142, 142, 0.9);
+    color: white;
+    text-decoration: none;
+    position: fixed;
+    top: 0;
+}
+.section1{
+    background-color: rgb(236, 219, 219);
+    height:450px;
+    padding-top: 20px;
+    padding-left: 20px;
+    line-height: 90px;
+    padding-bottom: 100px;
+    border-bottom: solid white 5px;
+}
+.introduçao{
+    font-size: 100px;
+}
+.introduçao2{
+    font-size: 50px;
+}
+.section2{
+    background-color: rgb(236, 219, 219);
+    line-height: 90px;
+    padding-top: 20px;
+}
+.cards{
+    margin: auto;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    background-color: rgb(233, 167, 167);
+}
+.card1{
+    line-height: 20px;
+    margin: auto;
+}
+.dc{
+    height: 350px;
+    padding-bottom: 200px;
+    font-size: 30px;
+    line-height: 35px;
+}
