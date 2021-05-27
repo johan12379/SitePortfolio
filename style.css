@@ -2,38 +2,38 @@ body{
     overflow-x: hidden;
 }
 .header{
-    background-color: rgba(145, 142, 142, 0.9);
+    background-color: rgba(0, 0, 0, 0.9);
     color: white;
     text-decoration: none;
-    position: fixed;
-    top: 0;
 }
 .section1{
-    background-color: rgb(236, 219, 219);
-    height:450px;
+    height:500px;
     padding-top: 20px;
     padding-left: 20px;
     line-height: 90px;
     padding-bottom: 100px;
-    border-bottom: solid white 5px;
+    border-bottom: solid rgba(255, 255, 255, 0.212) 5px;
+    background-color: rgb(0, 0, 0);
+    color: white;
 }
 .introduçao{
-    font-size: 100px;
+    font-size: 90px;
 }
 .introduçao2{
-    font-size: 50px;
+    font-size: 40px;
 }
 .section2{
-    background-color: rgb(236, 219, 219);
     line-height: 90px;
     padding-top: 20px;
+    background-color: rgb(0, 0, 0);
 }
 .cards{
     margin: auto;
     margin-left: 20px;
-    margin-right: 20px;
     margin-bottom: 20px;
-    background-color: rgb(233, 167, 167);
+    background-color: rgb(83, 83, 85);
+    border-radius: 20px;
+    color: white;
 }
 .card1{
     line-height: 20px;
@@ -44,4 +44,28 @@ body{
     padding-bottom: 200px;
     font-size: 30px;
     line-height: 35px;
+}
+.dc2{
+    height: 300px;
+    padding-bottom: 200px;
+    font-size: 30px;
+    line-height: 35px;
+}
+.image{
+    padding-top:5px ;
+    padding-bottom:5px ;
+}
+.image2{
+    border-radius: 30px;
+}
+@media only screen and (max-width: 787px){
+    .introduçao{
+        font-size: 60px;
+    }
+    .introduçao2{
+        font-size: 30px;
+    }
+}
+.linha{
+    padding-bottom: 10px;
 }

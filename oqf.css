@@ -1,0 +1,10 @@
+body{
+    overflow-x: hidden;
+    background-color: rgb(122, 127, 131);
+    font-size: 30px;
+}
+.header{
+    background-color: rgba(0, 0, 0, 0.9);
+    color: white;
+    text-decoration: none;
+}
