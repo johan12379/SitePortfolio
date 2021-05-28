@@ -34,6 +34,7 @@ body{
     background-color: rgb(125, 125, 145);
     border-radius: 20px;
     color: white;
+    margin-right: 20px;
 }
 .card1{
     line-height: 20px;
@@ -65,7 +66,18 @@ body{
     .introduçao2{
         font-size: 30px;
     }
+    .cards{
+        margin-left: 2px;
+        margin: auto;
+        margin-bottom: 20px;
+        background-color: rgb(125, 125, 145);
+        border-radius: 20px;
+        color: white;
+    }
 }
 .linha{
     padding-bottom: 10px;
+}
+.botao{
+   padding-right: 10px;
 }
