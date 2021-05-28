@@ -2,12 +2,21 @@ body{
     overflow-x: hidden;
     background-color: rgb(79, 87, 90);
     font-size: 30px;
+    color: white;
 }
 .header{
     background-color: rgb(125, 125, 145);
     color: white;
     text-decoration: none;
+    width: 10000px;
+    padding-left: 10px;
 }
 .divizoria2{
     text-align: right;
+}
+.section1{
+    background-color: rgb(79, 87, 90); ;
+}
+.section2{
+    background-color: rgb(71, 78, 80); ;
 }
